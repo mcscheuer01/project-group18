@@ -1,0 +1,17 @@
+site_id,location,country,lat,long,low_elevation,high_elevation,tz_st,tz_dt,utc_st,utc_dt,confirmed,timezone
+0,"Orlando, FL",US,28.54,-81.38,25,25,EST,EDT,-5,-4,TRUE,America/New_York
+1,"Southampton, UK",UK,50.9,-1.4,19,19,GMT,BST,0,1,FALSE,Europe/London
+2,"Tempe,AZ",US,33.412778,-111.943056,347.47,455.68,MST,MST,-7,-7,TRUE,America/Phoenix
+3,"Washington, DC",US,38.904722,-77.016389,0,125,EST,EDT,-5,-4,TRUE,America/New_York
+4,"Berkeley, CA",US,37.871667,-122.272778,52,52,PST,PDT,-8,-7,FALSE,America/Los_angeles
+5,"Southampton, UK",UK,50.9,-1.4,19,19,GMT,BST,0,1,FALSE,Europe/London
+6,"Philadelphia, PA",US,39.952778,-75.163611,12,12,EST,EDT,-5,-4,FALSE,America/New_York
+7,"Montreal, QC",CA,45.508889,-73.561667,6,233,EST,EDT,-5,-4,FALSE,America/Montreal
+8,"Orlando, FL",US,28.54,-81.38,25,25,EST,EDT,-5,-4,TRUE,America/New_York
+9,"Austin, TX",US,30.266667,-97.733333,88,405,CST,CDT,-6,-5,TRUE,America/Chicago
+10,"Las Vegas, NV",US,38.175,-115.136389,610,610,PST,PDT,-8,-7,FALSE,America/Los_angeles
+11,"Ottawa, ON",CA,45.424722,-75.695,70,70,EST,EDT,-5,-4,FALSE,America/Toronto
+12,"Dublin, IE",IE,53.35,-6.266667,85,85,GMT,IST,0,1,FALSE,Europe/Dublin
+13,"Twin Cities, MN",US,44.95,-93.26,200,419,CST,CDT,-6,-5,TRUE,America/Chicago
+14,"Charlottesville, VA",US,38.0299,-78.479,181,181,EST,EDT,-5,-4,TRUE,America/New_York
+15,"Rochester, NY",US,43.165556,-77.611389,154,154,EST,EDT,-5,-4,FALSE,America/New_York
